@@ -27,7 +27,13 @@ Ing. Darwin Alulema
 
 General
 
+Analizar los conocimientos y herramientas que le permitan resolver al estudiante problemas ingenieriles mediante la utilización, administración y desarrollo de métodos de análisis de circuitos eléctricos.
+
 Específicos
+
+Identificar diferentes métodos que resuelven circuitos eléctricos, clasificando de manera practica cual es el método factible para resolver los diferentes tipos de circuitos expuestos.
+
+Demostrar paso a paso la resolución de los ejercicios con los conocimientos obtenidos las cuales permiten resolver los problemas de los circuitos eléctricos.
 
 **2.-Marco teórico**
 
@@ -49,7 +55,25 @@ Específicos
 
 ![1007](https://user-images.githubusercontent.com/75336529/126427037-213774c5-3949-4702-8ab9-f2bc7f0152d8.jpg)
 
-![meme](https://user-images.githubusercontent.com/75336529/126427913-03beff99-6d7b-4c7b-81f7-bc8a96bb4acc.jpg)
+![2001](https://user-images.githubusercontent.com/75336529/126429333-b2ad9a4b-77c2-44a0-8c4c-dd0fc1f04e97.jpg)
+
+![2002](https://user-images.githubusercontent.com/75336529/126429372-7850a03e-5497-4798-89f4-3c1cbee40046.jpg)
+
+![2003](https://user-images.githubusercontent.com/75336529/126429394-e00b408c-352a-4c78-ae12-418f17c4cf3e.jpg)
+
+![2004](https://user-images.githubusercontent.com/75336529/126429413-28c2afa2-ac68-4cb4-84c7-fef0f5e5741a.jpg)
+
+![2005](https://user-images.githubusercontent.com/75336529/126429442-835a3cbf-609d-4334-8712-5d38945c558f.jpg)
+
+![2006](https://user-images.githubusercontent.com/75336529/126429473-3eb3867e-b64f-46df-9c74-fba1ce66ab09.jpg)
+
+![2007](https://user-images.githubusercontent.com/75336529/126429512-c6c95d3d-d115-46a8-8d09-9275056f383e.jpg)
+
+![2008](https://user-images.githubusercontent.com/75336529/126429242-04cde06a-58fa-49ee-b3c7-9821bb520a74.jpg)
+
+![2009](https://user-images.githubusercontent.com/75336529/126429281-24fb096c-496d-4c85-a4df-b96588ab5699.jpg)
+
+![2010](https://user-images.githubusercontent.com/75336529/126429318-ca03f5a3-457d-44df-81d4-da1a90e64753.jpg)
 
 ![3001](https://user-images.githubusercontent.com/75336529/126427058-3e7ca881-1ab6-4911-82d5-55cbacfb9607.jpg)
 
