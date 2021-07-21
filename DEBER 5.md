@@ -37,7 +37,7 @@ Demostrar paso a paso la resolución de los ejercicios con los conocimientos obt
 
 **2.-Marco teórico**
 
-![diagrama](https://user-images.githubusercontent.com/75336529/126431931-06963d50-4129-4ac9-aeaf-3c7d53884be8.png)
+![diagrama](https://user-images.githubusercontent.com/75336529/126434339-ba489386-a967-480f-add3-2263a3fbe623.jpeg)
 
 **3.-Explicación**
 
